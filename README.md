@@ -1,4 +1,4 @@
-# Netflix-Content-Strategy-Analysis
+# Netflix-Content-Analytics-and-Recommendation-System
 
 🎬 Cracking the Code: An Inside Look at Netflix’s Content Strategy
 
